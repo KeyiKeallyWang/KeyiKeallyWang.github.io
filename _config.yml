@@ -23,11 +23,11 @@ repository               : "KeyiKeallyWang.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Keyi Wang｜闫璟｜閆璟"
-  pronouns         : # example: "he/him"  
-  bio              : "Ph.D. student in Finance, TempleU."
+  name             : "Keyi Wang｜王可忆"
+  pronouns         : # example: "She/her"  
+  bio              : "Ph.D. student in Statistics, TempleU."
   location         : "Philadelphia, PA"
-  email            : "jing.yan0001@temple.edu" 
+  email            : "keyi.wang@temple.edu" 
 
   # Academic websites
   academia         : # URL
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "jingjerryyan"
+  github           : "KeyiKeallyWang"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
